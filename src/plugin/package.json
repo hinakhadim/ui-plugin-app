@@ -1,0 +1,11 @@
+{
+    "name": "@openedx-plugins/footer-links",
+    "version": "0.1.0",
+    "description": "Footer Links configuration",
+    "peerDependencies": {
+        "prop-types": "*",
+        "react": "*"
+    },
+    "peerDependenciesMeta": {
+    }
+}
